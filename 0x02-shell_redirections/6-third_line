@@ -1,3 +1,2 @@
-ed_smiley  3-twofiles   5-firstlines  RE
-!/bin/bash
+#!/bin/bash
 head -n 3 iacta | tail -n 1
