@@ -1,2 +1,0 @@
-#!/bin/bash
-find. -tyoe d -not -name '_' | wc -l
