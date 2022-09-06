@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD:0x00-shell_basics/0-current_working_directory
 pwd
-=======
-cd"
->>>>>>> There is no place like home:0x00-shell_basics/2-bring_me_home
