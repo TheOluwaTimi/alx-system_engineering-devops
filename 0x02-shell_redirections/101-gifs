@@ -1,0 +1,1 @@
+find -type f -name | cut -d '/' -f | cut -d '_' -f 2 -1 | rev | LC_ALL*C sort f
